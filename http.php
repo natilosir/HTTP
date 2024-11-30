@@ -1,5 +1,5 @@
 <?php
-define('api','https://');
+define('api','');
 
 function http($uri, $array = [], $method = 'POST')
 {
